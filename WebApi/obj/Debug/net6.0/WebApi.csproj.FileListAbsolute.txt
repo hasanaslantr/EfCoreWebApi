@@ -159,6 +159,7 @@ C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\bin\Debug\net6
 C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\bin\Debug\net6.0\Humanizer.dll
 C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
@@ -178,6 +179,7 @@ C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\bin\Debug\net6
 C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
 C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\bin\Debug\net6.0\NLog.dll
 C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\bin\Debug\net6.0\NLog.Extensions.Logging.dll
 C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -231,5 +233,3 @@ C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\obj\Debug\net6
 C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\obj\Debug\net6.0\WebApi.pdb
 C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
 C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\obj\Debug\net6.0\ref\WebApi.dll
-C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

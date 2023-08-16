@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using NLog;
+using Presentation.ActionFilters;
 using Repositories.EFCore;
 using Services.Contracts;
 using WebApi.Extensions;
@@ -15,6 +16,8 @@ LogManager.LoadConfiguration(String.Concat(Directory.GetCurrentDirectory(), "/nl
 
 // SQL baðlantýsýný yapýlandýrma ayarlarýyla yapýlandýr
 builder.Services.ConfigureSqlContext(builder.Configuration);
+builder.Services.ConfigureActionFilters();
+
 
 // Controllerlarý servislere ekle
 builder.Services.AddControllers(
