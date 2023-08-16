@@ -41,7 +41,7 @@ namespace Presentation.Controllers
 
 
         [HttpPost]
-        public async Task<IActionResult> CreateOneBook([FromBody] BookDtoForInsertion bookDto)
+        public async Task<IActionResult> CreateOneBookAsync([FromBody] BookDtoForInsertion bookDto)
         {
             if (bookDto is null)
                 return BadRequest(); //400
