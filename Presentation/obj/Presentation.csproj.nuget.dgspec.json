@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Presentation\\Presentation.csproj": {}
+    "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Presentation\\Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Entities\\Entities.csproj": {
+    "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\fakia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fakia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Presentation\\Presentation.csproj": {
+    "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Presentation\\Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Presentation\\Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Presentation\\Presentation.csproj",
         "projectName": "Presentation",
-        "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Presentation\\Presentation.csproj",
+        "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Presentation\\Presentation.csproj",
         "packagesPath": "C:\\Users\\fakia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Presentation\\obj\\",
+        "outputPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fakia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -87,8 +87,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Services\\Services.csproj"
+              "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Services\\Services.csproj"
               }
             }
           }
@@ -110,6 +110,10 @@
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",
               "version": "[2.2.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.10, )"
             }
           },
           "imports": [
@@ -132,14 +136,14 @@
         }
       }
     },
-    "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Repositories\\Repositories.csproj",
+        "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\fakia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Repositories\\obj\\",
+        "outputPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fakia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,8 +162,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Entities\\Entities.csproj"
+              "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Entities\\Entities.csproj"
               }
             }
           }
@@ -209,14 +213,14 @@
         }
       }
     },
-    "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Services\\Services.csproj": {
+    "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\fakia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Services\\obj\\",
+        "outputPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fakia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -235,11 +239,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Entities\\Entities.csproj"
+              "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Repositories\\Repositories.csproj": {
-                "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Repositories\\Repositories.csproj"
+              "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Repositories\\Repositories.csproj"
               }
             }
           }

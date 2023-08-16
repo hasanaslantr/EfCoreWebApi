@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yZ3RWb7io/tAYIel8C4mh/MiSqO2BbrQKccnw/7UumN2SjbGB4yRp5rAM8ScMGPMmyv6kDJAEXBKllCBNUX6wA==",
+  "dgSpecHash": "G/OlTlwfZ/PkH9MnAcZmswL1AIbn6eeiijKQqtRMyoAUDfrIPtliA6lNSGWNt0giL4oUu2K53EAAZZB/I4xSRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fakia\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\fakia\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

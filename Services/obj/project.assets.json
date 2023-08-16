@@ -2092,11 +2092,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Services\\Services.csproj",
+      "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\fakia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Services\\obj\\",
+      "outputPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fakia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2115,11 +2115,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Entities\\Entities.csproj"
+            "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Entities\\Entities.csproj"
             },
-            "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Repositories\\Repositories.csproj": {
-              "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Repositories\\Repositories.csproj"
+            "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Repositories\\Repositories.csproj"
             }
           }
         }

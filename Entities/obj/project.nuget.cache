@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e60KuhIZdLnfF1hsEfk7XHmBcqnxL0Ie8g80vtNrQFWCJuoXQOKUA8+4CI67j8Eg5fmvPoUPLLH73b2noglWSw==",
+  "dgSpecHash": "EHyRqdeffry7d4Cn+6wpCeuE7kmSdsD5WLXy7DxAcEaUCkSfyjtRHBYBHOLHHk7SqH7WpAmg+fQWqd2y3Z8uPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

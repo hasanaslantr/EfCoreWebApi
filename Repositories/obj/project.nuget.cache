@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T8Az6VPj16yPDJ+jiBZDDPNGGuEujztmxhf9Wth+S9vRtkhXUXAXBd4jDwYZMeBai8J6qNiHFg1SC2k8kYAjug==",
+  "dgSpecHash": "j9oUYHv2qll7iF3tR2XUQxvdRSTVc0xwDQMW/62LdKQoz9ZP4qu8q/LiVXNoGtE/bd01dtLENdV56lUSGOoGug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\bsStoreApp\\Repositories\\Repositories.csproj",
+  "projectFilePath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fakia\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\fakia\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
