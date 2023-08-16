@@ -18,10 +18,9 @@ LogManager.LoadConfiguration(String.Concat(Directory.GetCurrentDirectory(), "/nl
 builder.Services.ConfigureSqlContext(builder.Configuration);
 builder.Services.ConfigureActionFilters();
 
-
+builder.Services.ConfigureCors();
 // Controllerlarý servislere ekle
 builder.Services.AddControllers(
-
     // Ýçerik Pazarlama bölümü
     // API'nin döneceði veri formatlarýný belirleme
     config =>
@@ -37,6 +36,7 @@ builder.Services.AddControllers(
     .AddCustomCsvFormatter()
     // API'nin Presentation.AssemblyReference derlemesini ekler
     .AddApplicationPart(typeof(Presentation.AssemblyReference).Assembly);
+
 
 
 // API keþfi ve Swagger desteði eklenir
@@ -78,6 +78,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("CorsPolicy");
 
 // HTTPS yönlendirmesini etkinleþtir
 app.UseHttpsRedirection();
