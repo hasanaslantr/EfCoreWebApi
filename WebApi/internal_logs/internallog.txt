@@ -140,3 +140,13 @@
 2023-08-17 00:01:44.2186 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
 2023-08-17 00:01:44.2514 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\nlog.config
 2023-08-17 00:01:44.2849 Info Configuration initialized.
+2023-08-17 11:33:02.1363 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-17 11:33:02.1866 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-17 11:33:02.2319 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\nlog.config
+2023-08-17 11:33:02.2762 Info Configuration initialized.
+2023-08-17 11:54:51.0022 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-17 11:54:51.0423 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-17 11:54:51.0722 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\fakia\OneDrive\Masaüstü\EfCore Api\EfCoreWebApi\WebApi\nlog.config
+2023-08-17 11:54:51.1090 Info Configuration initialized.
+2023-08-17 12:01:07.6478 Info AppDomain Shutting down. LogFactory closing...
+2023-08-17 12:01:07.6705 Info LogFactory has been closed.
