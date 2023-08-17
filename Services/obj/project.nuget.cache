@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "G/OlTlwfZ/PkH9MnAcZmswL1AIbn6eeiijKQqtRMyoAUDfrIPtliA6lNSGWNt0giL4oUu2K53EAAZZB/I4xSRw==",
+  "dgSpecHash": "XUJy2H3heMus3+CqzVEiPFLMf8JC1NWjZ49aSIuh4IHsB7x2X/ZkjuqnF0FCj6k/UxHB3OiIKofW+St3tDGmJw==",
   "success": true,
   "projectFilePath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Services\\Services.csproj",
   "expectedPackageFiles": [
@@ -39,6 +39,7 @@
     "C:\\Users\\fakia\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\fakia\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
     "C:\\Users\\fakia\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.8.0\\system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
+    "C:\\Users\\fakia\\.nuget\\packages\\system.linq.dynamic.core\\1.3.4\\system.linq.dynamic.core.1.3.4.nupkg.sha512",
     "C:\\Users\\fakia\\.nuget\\packages\\system.runtime.caching\\4.7.0\\system.runtime.caching.4.7.0.nupkg.sha512",
     "C:\\Users\\fakia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\fakia\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",

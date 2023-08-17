@@ -6,5 +6,11 @@
         public uint MaxPrice { get; set; } = 1000;
         public bool ValidRriceRange => MaxPrice > MinPrice;
         public String? SearchTerm { get; set; }
+
+        public BookParametres()
+        {
+            OrderBy = "id";
+        }
+
     }
 }
