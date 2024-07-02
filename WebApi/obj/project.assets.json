@@ -5830,46 +5830,50 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fakia\\.nuget\\packages\\": {}
+    "C:\\Users\\milklab\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\milklab\\Desktop\\EfCoreWebApi\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\WebApi\\WebApi.csproj",
-      "packagesPath": "C:\\Users\\fakia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\WebApi\\obj\\",
+      "projectPath": "C:\\Users\\milklab\\Desktop\\EfCoreWebApi\\WebApi\\WebApi.csproj",
+      "packagesPath": "C:\\Users\\milklab\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\milklab\\Desktop\\EfCoreWebApi\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\fakia\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+        "C:\\Users\\milklab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/hepkolay/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Entities\\Entities.csproj"
+            "C:\\Users\\milklab\\Desktop\\EfCoreWebApi\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\milklab\\Desktop\\EfCoreWebApi\\Entities\\Entities.csproj"
             },
-            "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Presentation\\Presentation.csproj": {
-              "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Presentation\\Presentation.csproj"
+            "C:\\Users\\milklab\\Desktop\\EfCoreWebApi\\Presentation\\Presentation.csproj": {
+              "projectPath": "C:\\Users\\milklab\\Desktop\\EfCoreWebApi\\Presentation\\Presentation.csproj"
             },
-            "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Repositories\\Repositories.csproj": {
-              "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Repositories\\Repositories.csproj"
+            "C:\\Users\\milklab\\Desktop\\EfCoreWebApi\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\milklab\\Desktop\\EfCoreWebApi\\Repositories\\Repositories.csproj"
             },
-            "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Services\\Services.csproj"
+            "C:\\Users\\milklab\\Desktop\\EfCoreWebApi\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\milklab\\Desktop\\EfCoreWebApi\\Services\\Services.csproj"
             }
           }
         }
@@ -5878,6 +5882,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -5928,7 +5937,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
       }
     }
   }

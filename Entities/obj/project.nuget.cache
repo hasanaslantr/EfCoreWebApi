@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EHyRqdeffry7d4Cn+6wpCeuE7kmSdsD5WLXy7DxAcEaUCkSfyjtRHBYBHOLHHk7SqH7WpAmg+fQWqd2y3Z8uPg==",
+  "dgSpecHash": "kqQhB/1Uk144ej5NV3Vabh9RBxxBNZZR3NolnLqcHcZN1Bh3BVjAG9L2KtIZfg6Fm0Gqypj4Fw2TdwyEmCvpBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fakia\\OneDrive\\Masaüstü\\EfCore Api\\EfCoreWebApi\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\milklab\\Desktop\\EfCoreWebApi\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
